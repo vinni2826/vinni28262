@@ -1,0 +1,5 @@
+this is a new file added using touch command
+touch spacefilename.txt
+to come outof tying press escape key
+to exit without saving type :q
+to exit with aving type :x
